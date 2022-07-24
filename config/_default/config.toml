@@ -2,7 +2,7 @@ baseURL = "http://example.org"
 title = "Hugo Zdoc Theme"
 theme = "zdoc"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = false
 
