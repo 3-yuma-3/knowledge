@@ -52,3 +52,13 @@ draft: false
 - [Martin Fowler's Bliki (ja)](https://bliki-ja.github.io/)
 
 - [how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/blob/main/README-JA.md)
+
+- [flano-yuki / http3-note](https://github.com/flano-yuki/http3-note)
+
+- [web.dev](https://web.dev)
+  > Let's build the future of the web, together
+  > Take advantage of the latest modern technologies to build amazing web experiences for everyone.
+
+- [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer/blob/master/README-ja.md)
+
+- [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
