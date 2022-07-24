@@ -1,0 +1,11 @@
+[en]
+  title = "ZDoc"
+  languageName = "English"
+  weight = 1
+  contentdir = "content/en"
+
+[ja]
+  title = "ZDoc"
+  languageName = "Japanese"
+  weight = 2
+  contentdir = "content/ja"
