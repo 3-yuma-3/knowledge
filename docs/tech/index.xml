@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tech on ZDoc</title><link>https://3-yuma-3.github.io/knowledge/tech/</link><description>Recent content in tech on ZDoc</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>&amp;copy;{year}, All Rights Reserved</copyright><atom:link href="https://3-yuma-3.github.io/knowledge/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>tools</title><link>https://3-yuma-3.github.io/knowledge/tech/tooles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/tooles/</guid><description>nginx-proxy / nginx-proxy
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tech on ZDoc</title><link>https://3-yuma-3.github.io/knowledge/tech/</link><description>Recent content in tech on ZDoc</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>&amp;copy;{year}, All Rights Reserved</copyright><atom:link href="https://3-yuma-3.github.io/knowledge/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>ctf</title><link>https://3-yuma-3.github.io/knowledge/tech/ctf/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/ctf/</guid><description> CpawCTF
+ksnctf
+picoCTF
+seccon
+セキュリティを楽しむ（CTFとbugbountyの始め方）(slideshare)
+ctftime</description></item><item><title>open data</title><link>https://3-yuma-3.github.io/knowledge/tech/open-data/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/open-data/</guid><description>open data public-apis / public-apis
+国土交通データプラットフォーム
+衛星画像利用サービスまとめ(qiita)
+ケンオール
+ケンオールを使えば、郵便番号から住所を補完したり、法人名から法人住所を補完するといった住所フォームの開発に便利なAPIを簡単に使うことができます。
+GTFS-JP
+「標準的なバス情報フォーマット」は、バス事業者と経路検索等の情報利用者との情報の受渡しのための共通フォーマットです。国土交通省により2016年から標準化が進められています。公共交通データのデファクトスタンダートであるGTFSを元に作られた、交通事業者と開発者の双方に優しいフォーマットです。
+OpenWeather
+RESAS-API
+APIbank
+BODIK ODCS</description></item><item><title>site</title><link>https://3-yuma-3.github.io/knowledge/tech/site/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/site/</guid><description>The Twelve-Factor App
+低レイヤを知りたい人のためのCコンパイラ作成入門
+Container Security Book
+docker for beginners
+TypeScript Deep Dive 日本語版
+Webフロントエンド パフォーマンス改善ハンドブック
+現代の JavaScript チュートリアル
+JavaScript Primer
+サバイバルTypeScript
+devPM
+isucon
+日本CTO協会
+CloudNative Days
+日本CPO協会
+インターネット白書ARCHIVES
+データサイエンティスト協会
+リレーショナル・データベースの世界
+free-programming-books
+roadmap.</description></item><item><title>tools</title><link>https://3-yuma-3.github.io/knowledge/tech/tooles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/tooles/</guid><description>OpenRefine
+uikit / uikit
+nginx-proxy / nginx-proxy
 Automated nginx proxy for Docker containers using docker-gen
 neo4j
 bun
@@ -7,6 +42,4 @@ mingrammer / diagrams
 getsentry / self-hosted
 macaron
 Macaron is an open-source UI design tool to create and maintain Web Components.
-Create components visually and use them with any framework, or with vanilla HTML/JavaScript.
-streamlit
-Streamlit turns data scripts into shareable web apps in minutes.</description></item></channel></rss>
+Create components visually and use them with any framework, or with vanilla HTML/JavaScript.</description></item></channel></rss>
