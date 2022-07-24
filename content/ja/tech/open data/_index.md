@@ -19,3 +19,7 @@ draft: false
 - [OpenWeather](https://openweathermap.org/)
 
 - [RESAS-API](https://opendata.resas-portal.go.jp/)
+
+- [APIbank](https://www.apibank.jp/ApiBank/api)
+
+- [BODIK ODCS](https://odcs.bodik.jp/)
