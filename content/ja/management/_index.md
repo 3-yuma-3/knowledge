@@ -63,6 +63,8 @@ draft: false
 
 - [一部のお客様へ影響しているアトラシアンサービスの停止について](https://www.atlassian.com/ja/blog/april-2022-outage-update)
 
+- [2022年4月に発生したアトラシアンのサービス停止に関するインシデント事後レビュー](https://www.atlassian.com/ja/blog/post-incident-review-april-2022-outage)
+
 - [「問題から目を背けず取り組む」 一休の開発チームが6年間で学んだこと(speakerdeck)](https://speakerdeck.com/naoya/wen-ti-karamu-wobei-kezuqu-rizu-mu-xiu-falsekai-fa-timuga6nian-jian-dexue-ndakoto)
 
 - [ソニーの研修、東大の授業でも高評価。アイデアの質が高まる「トリーズの9画面法」がすごい](https://studyhacker.net/triz-9-idea)
@@ -76,3 +78,11 @@ draft: false
 - [社内政治による情報設計（IA）の歪みを上手に回避しているベストプラクティスはマクドナルドのスマホアプリだと思っている。...(twitter)](https://twitter.com/storywriter/status/1533356688727605248)
 
 - [ZOZO SUIT終了｢5つの失敗｣裏で得た意外な財産](https://toyokeizai.net/articles/-/593325)
+
+- [これからの時代を担う人たちへ ~ そーだいなる昔話を添えて ~](https://soudai.hatenablog.com/entry/2021/02/02/200104)
+
+- [日本のSaaS企業は代理店販売を知らない](https://coralcap.co/2022/01/partner-success/)
+
+- [「“楽しくないけどお金のためにやる人”はやはり伸びない」まつもとゆきひろ氏が説く“プログラマーに向いている人”](https://logmi.jp/tech/articles/326846)
+
+- [質とスピード（2022春版、質疑応答用資料付き）(speakerdeck)](https://speakerdeck.com/twada/quality-and-speed-2022-spring-edition)
