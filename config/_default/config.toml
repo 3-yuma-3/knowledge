@@ -1,4 +1,5 @@
-baseURL = "http://example.org"
+baseURL = "https://3-yuma-3.github.io/knowledge"
+publishDir = "docs"
 title = "Hugo Zdoc Theme"
 theme = "zdoc"
 
