@@ -1,17 +1,35 @@
 [[main]]
-  identifier = "docs"
-  name = "Docs"
-  url = "docs"
+  identifier = "agri"
+  name = "agri"
+  url = "agri"
   weight = 1
 
 [[main]]
-  identifier = "updates"
-  name = "Updates"
-  url = "updates"
+  identifier = "book"
+  name = "book"
+  url = "book"
   weight = 2
 
 [[main]]
-  identifier = "blog"
-  name = "Blog"
-  url = "blog"
+  identifier = "management"
+  name = "management"
+  url = "management"
   weight = 3
+
+[[main]]
+  identifier = "others"
+  name = "others"
+  url = "others"
+  weight = 4
+
+[[main]]
+  identifier = "tech"
+  name = "tech"
+  url = "tech"
+  weight = 5
+
+[[main]]
+  identifier = "usage"
+  name = "usage"
+  url = "usage"
+  weight = 5
