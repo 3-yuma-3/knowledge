@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tech on ZDoc</title><link>https://3-yuma-3.github.io/knowledge/tech/</link><description>Recent content in tech on ZDoc</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>&amp;copy;{year}, All Rights Reserved</copyright><atom:link href="https://3-yuma-3.github.io/knowledge/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>ctf</title><link>https://3-yuma-3.github.io/knowledge/tech/ctf/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/ctf/</guid><description> CpawCTF
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tech on ZDoc</title><link>https://3-yuma-3.github.io/knowledge/tech/</link><description>Recent content in tech on ZDoc</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>&amp;copy;{year}, All Rights Reserved</copyright><atom:link href="https://3-yuma-3.github.io/knowledge/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>article</title><link>https://3-yuma-3.github.io/knowledge/tech/article/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/article/</guid><description>2021 11月 The three great virtues are important</description></item><item><title>ctf</title><link>https://3-yuma-3.github.io/knowledge/tech/ctf/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/ctf/</guid><description> CpawCTF
 ksnctf
 picoCTF
 seccon
 セキュリティを楽しむ（CTFとbugbountyの始め方）(slideshare)
-ctftime</description></item><item><title>open data</title><link>https://3-yuma-3.github.io/knowledge/tech/open-data/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/open-data/</guid><description>open data public-apis / public-apis
+ctftime
+XSS Challenges
+XSS Challenge by y0n3uchy
+Web Security Academy
+Free, online web security training from the creators of Burp Suite
+CTF初心者が考えるCTF入門</description></item><item><title>open data</title><link>https://3-yuma-3.github.io/knowledge/tech/open-data/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/open-data/</guid><description>open data public-apis / public-apis
 国土交通データプラットフォーム
 衛星画像利用サービスまとめ(qiita)
 ケンオール
@@ -12,8 +17,9 @@ GTFS-JP
 「標準的なバス情報フォーマット」は、バス事業者と経路検索等の情報利用者との情報の受渡しのための共通フォーマットです。国土交通省により2016年から標準化が進められています。公共交通データのデファクトスタンダートであるGTFSを元に作られた、交通事業者と開発者の双方に優しいフォーマットです。
 OpenWeather
 RESAS-API
-APIbank
-BODIK ODCS</description></item><item><title>site</title><link>https://3-yuma-3.github.io/knowledge/tech/site/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/site/</guid><description>The Twelve-Factor App
+V-RESAS APIbank
+BODIK ODCS
+3D都市モデル（Project PLATEAU）ポータルサイト</description></item><item><title>site</title><link>https://3-yuma-3.github.io/knowledge/tech/site/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/site/</guid><description>The Twelve-Factor App
 低レイヤを知りたい人のためのCコンパイラ作成入門
 Container Security Book
 docker for beginners

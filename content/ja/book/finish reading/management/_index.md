@@ -1,4 +1,0 @@
----
-title: management
-draft: false
----

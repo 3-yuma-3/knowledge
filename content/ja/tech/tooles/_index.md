@@ -104,3 +104,30 @@ draft: false
 
 - [keycloak](https://www.keycloak.org/)
   > Keycloak provides user federation, strong authentication, user management, fine-grained authorization, and more.
+
+- [hilla (The modern web framework for Java)](https://hilla.dev/)
+  > Hilla integrates a Spring Boot Java back end with a reactive TypeScript front end. It helps you build apps faster with type-safe server communication, included UI components, and integrated tooling.
+
+- [sonarqube (docs)](https://docs.sonarqube.org/)
+  > SonarQube® is an automatic code review tool to detect bugs, vulnerabilities, and code smells in your code. It can integrate with your existing workflow to enable continuous code inspection across your project branches and pull requests.
+
+- [snyk (docs)](https://docs.snyk.io/introducing-snyk)
+  > Snyk is a platform allowing you to scan, prioritize, and fix security vulnerabilities in your own code, open source dependencies, container images, and Infrastructure as Code (IaC) configurations.
+
+- [backstage](https://backstage.io/)
+  > An open platform for building developer portals
+  > Powered by a centralized software catalog, Backstage restores order to your infrastructure and enables your product teams to ship high-quality code quickly — without compromising autonomy.
+
+- [aquasecurity / tfsec](https://github.com/aquasecurity/tfsec)
+
+- [KENRO](https://flatt.tech/kenro)
+
+- gitlab fuzz testing
+  - [Coverage-guided fuzz testing](https://docs.gitlab.com/ee/user/application_security/coverage_fuzzing/)
+  - [Web API Fuzz Testing](https://docs.gitlab.com/ee/user/application_security/api_fuzzing/)
+  - [protocol-fuzzer-ce](https://gitlab.com/gitlab-org/security-products/protocol-fuzzer-ce)
+
+- [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert)
+
+- [ZupIT / horusec](https://github.com/ZupIT/horusec)
+  > Horusec is an open source tool that performs a static code analysis to identify security flaws during the development process. Currently, the languages for analysis are C#, Java, Kotlin, Python, Ruby, Golang, Terraform, Javascript, Typescript, Kubernetes, PHP, C, HTML, JSON, Dart, Elixir, Shell, Nginx. The tool has options to search for key leaks and security flaws in all your project's files, as well as in Git history. Horusec can be used by the developer through the CLI and by the DevSecOps team on CI /CD mats.

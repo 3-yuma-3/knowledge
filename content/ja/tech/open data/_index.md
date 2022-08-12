@@ -19,7 +19,10 @@ draft: false
 - [OpenWeather](https://openweathermap.org/)
 
 - [RESAS-API](https://opendata.resas-portal.go.jp/)
+  - [V-RESAS](https://v-resas.go.jp/)
 
 - [APIbank](https://www.apibank.jp/ApiBank/api)
 
 - [BODIK ODCS](https://odcs.bodik.jp/)
+
+- [3D都市モデル（Project PLATEAU）ポータルサイト](https://www.geospatial.jp/ckan/dataset/plateau)
