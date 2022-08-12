@@ -62,3 +62,29 @@ draft: false
 - [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer/blob/master/README-ja.md)
 
 - [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
+
+- [NestJSの強化書](https://docs.nest-book.jp/)
+
+- [日本Javaユーザーグループ](https://www.java-users.jp/)
+
+- [日本Springユーザ会](https://www.springframework.jp/)
+
+- [TERASOLUNA Server Framework for Java (5.x) Development Guideline](https://terasolunaorg.github.io/guideline/current/ja/)
+  > 本ガイドラインではSpring、Spring MVCやJPA、MyBatisを中心としたフルスタックフレームワークを利用して、 保守性の高いWebアプリケーション開発をするためのベストプラクティスを提供する。
+
+- [デザインパターン](https://www.techscore.com/tech/DesignPattern/)
+
+- [UX DAYS TOKYO](https://uxdaystokyo.com/)
+
+- [ちいさな Web ブラウザを作ってみよう](https://browserbook.shift-js.info/)
+
+- [開発者のためのSQLパフォーマンスの全て](https://use-the-index-luke.com/ja/sql/table-of-contents)
+
+- [AWSによるクラウド入門](https://tomomano.gitlab.io/intro-aws/)
+
+- [Rubyソースコード完全解説](https://i.loveruby.net/ja/rhg/book/)
+
+- [Webフロントエンド パフォーマンス改善ハンドブック](https://dwango-js.github.io/performance-handbook/)
+
+- [WACATE](https://wacate.jp/)
+  > Workshop for Accelerating CApable Testing Engineers：内に秘めた可能性を持つテストエンジニアたちを加速させるためのワークショップ
