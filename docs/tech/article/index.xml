@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>article on ZDoc</title><link>https://3-yuma-3.github.io/knowledge/tech/article/</link><description>Recent content in article on ZDoc</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>&amp;copy;{year}, All Rights Reserved</copyright><atom:link href="https://3-yuma-3.github.io/knowledge/tech/article/index.xml" rel="self" type="application/rss+xml"/><item><title>2014</title><link>https://3-yuma-3.github.io/knowledge/tech/article/2014/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/article/2014/</guid><description>1月 ServiceとDCIについて 5月 新人プログラマに知っておいてもらいたい人類がオブジェクト指向を手に入れるまでの軌跡</description></item><item><title>2015</title><link>https://3-yuma-3.github.io/knowledge/tech/article/2015/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/article/2015/</guid><description> システム障害と僕達はいかにして戦えば良いのか、障害対応について考えた (qiita)</description></item><item><title>2018</title><link>https://3-yuma-3.github.io/knowledge/tech/article/2018/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/article/2018/</guid><description>1月 品質保証の歴史学 at「リリカルの質問全部答えます」 #リリカルの質問 / History of quality assurance (speakerdeck) 3月 安全かつ高速に進めるマイクロサービス化 / railsdm2018 (speakerdeck) 11月 テストの広さと深さ、どっちが大事？ ソフトウェア開発における品質を考える - Part1</description></item><item><title>2019</title><link>https://3-yuma-3.github.io/knowledge/tech/article/2019/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/article/2019/</guid><description>2月 gitlab runnerをAmazon EC2スポットインスタンス+docker in dockerで実現する 3月 ラズパイでKubernetesクラスタを構築する
+Ruby on Railsの正体と向き合い方 / What is Ruby on Rails and how to deal with it? (speakerdeck)
+9月 世界一わかりやすいClean Architecture 10月 テスト観点を うまく議論し使い回すために できることを考える [公開用] / NagasakiQDG4th-Test-viewpoints 11月 高齢者でも使えるプロダクトUIの挑戦 / Designing User Interfaces for the Elderly (speakerdeck)</description></item><item><title>2020</title><link>https://3-yuma-3.github.io/knowledge/tech/article/2020/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/article/2020/</guid><description>2月 広告配信を支えるバッチ基盤をサーバーレス移行した話（ECS Fargate, Step Functions）@ Serverless Meetup Tokyo #16 (speakerdeck) 5月 クレジットカード情報漏洩の手口の動向～なぜ保存禁止のセキュリティコードまで漏洩するのか～ 7月 テストを自動化するのをやめ、自動テストを作ろう 10月 「そのコンテナ、安全ですか？」〜AWS x DevSecOpsで実践するコンテナセキュリティ〜 / Is that container safe? (speakerdeck)
+メドピア AWS勉強会 ECS編 / MedPeer AWS Seminar ECS (speakerdeck)</description></item><item><title>2021</title><link>https://3-yuma-3.github.io/knowledge/tech/article/2021/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/article/2021/</guid><description>Deploying a Rails application to Kubernetes 1月 ローカル開発にHTTPSを使用する方法
+ブラウザの作り方 (speakerdeck)
+5月 私とOSSの25年 (slideshare)
+世界一わかりみの深いOAuth入門 / wakarimioauth (speakerdeck)
+カスタムURLスキームの乗っ取りとその対策
+(2021年版) ソフトウェアテストの上流設計-2 テストケースを作る一連の流れ
+6月 品質を加速させるために、テスターを増やす前から考えるべきQMファンネルの話（3D版）(slideshare) 7月 MySQLでプライマリキーをUUIDにする前に知っておいて欲しいこと 8月 Chrome 93で実装されたCross Device WebOTPフローを試してみた 9月 宣言的UIの状態管理とアーキテクチャSwiftUIとGraphQLによる実践/swiftui-graphql(speakerdeck)
+ID連携の標準化仕様紹介とセキュアな実装のためのアプローチ ~ 2021
+11月 DDD is dead.</description></item><item><title>2022</title><link>https://3-yuma-3.github.io/knowledge/tech/article/2022/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://3-yuma-3.github.io/knowledge/tech/article/2022/</guid><description>1月 QAエンジニアのカジュアル面談資料を公開します！ 2月 Lambdaの落とし穴 - 脆弱なライブラリによる危険性とセキュリティ対策 3月 テーブル設計の考え方とやり方 [入門編] (speakerdeck)
+20分で分かるDirty Pipe（CVE-2022-0847）
+イラストで正しく理解するTLS 1.3の暗号技術 (zenn)
+「chmod」を不用意に使うとDockerイメージの容量が肥大化してしまう
+4月 予防に勝る防御なし 堅牢なコードを導く様々な設計のヒント (speakerdeck)
+Node.js の原罪
+ゼロトラストは攻撃者から見たら実はセキュアではない ペンテスターの目線から考える、監視システムの現状
+Firebase Authentication 7つの落とし穴 - 脆弱性を生むIDaaSの不適切な利用
+Spring Frameworkの脆弱性 CVE-2022-22965（Spring4shell）についてまとめてみた
+Pull RequestをKubernetesで気軽に試せるOSS、KubeTempuraをリリースしました
+5月 いちばんやさしい webpack 入門(zenn)
+Re: Re: Re: ドメイン固有型(値オブジェクト含む)を再考する</description></item></channel></rss>
